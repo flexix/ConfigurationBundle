@@ -2,7 +2,7 @@
 {
     "name": "flexix/configuration-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony2 bundle for prototype",
+    "description": "Simple configuration object",
     "keywords": ["flexix","configuration", "bundle"],
     "homepage": "https://github.com/flexix/configuration-bundle",
     "license": "MIT",
