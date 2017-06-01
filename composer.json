@@ -25,6 +25,5 @@
         "psr-4": {
             "Flexix\\ConfigurationBundle\\": ""
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
